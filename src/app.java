@@ -4,5 +4,7 @@ public class app {
         int suma = 5;
         int a = suma;
 
+        System.out.println(a);
+
     }
 }
